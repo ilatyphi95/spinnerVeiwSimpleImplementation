@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpinnerViewSimpleImplementation</string>
+    <string name="btn_display_selected">Display Selected</string>
+    <string name="tv_sample">Press Button to Show Selected Spinner</string>
+    <string name="spinner_1">Spinner 1 Selected</string>
+    <string name="spinner_2">Spinner 2 Selected</string>
+    <string name="spinner_3">Spinner 3 Selected</string>
+    <string name="spinner_4">Spinner 4 Selected</string>
+    <string-array name="sp_items">
+        <item>@string/spinner_1</item>
+        <item>@string/spinner_2</item>
+        <item>@string/spinner_3</item>
+        <item>@string/spinner_4</item>
+    </string-array>
+</resources>
